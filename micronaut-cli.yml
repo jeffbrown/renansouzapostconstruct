@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: renansouzapostconstruct
+---
+testFramework: junit
+sourceLanguage: java
